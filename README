@@ -1,0 +1,13 @@
+NAME
+    RT::Extension::Demo - demo of an extension for RT
+
+SYNOPSIS
+        Set(@Plugins, qw(RT::Extension::Demo));
+
+DESCRIPTION
+AUTHOR
+    Ruslan Zakirov <ruslan.zakirov@gmail.com>
+
+LICENSE
+    Under the same terms as perl itself.
+
