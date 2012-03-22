@@ -4,7 +4,7 @@ use warnings;
 
 package RT::Extension::Demo;
 
-our $VERSION = '0.01'
+our $VERSION = '0.01';
 
 =head1 NAME
 
