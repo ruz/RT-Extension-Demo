@@ -5,6 +5,12 @@ SYNOPSIS
         Set(@Plugins, qw(RT::Extension::Demo));
 
 DESCRIPTION
+    This is demo module with screencasts (sound in Russian):
+
+    *   First extension <http://www.youtube.com/watch?v=mmQBW09GZ9M>
+
+    *   Modifying menu <http://www.youtube.com/watch?v=m1U63H6TYiY>
+
 AUTHOR
     Ruslan Zakirov <ruslan.zakirov@gmail.com>
 

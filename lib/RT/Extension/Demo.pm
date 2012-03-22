@@ -16,6 +16,16 @@ RT::Extension::Demo - demo of an extension for RT
 
 =head1 DESCRIPTION
 
+This is demo module with screencasts (sound in Russian):
+
+=over 4
+
+=item * L<First extension|http://www.youtube.com/watch?v=mmQBW09GZ9M>
+
+=item * L<Modifying menu|http://www.youtube.com/watch?v=m1U63H6TYiY>
+
+=back
+
 =cut
 
 # ... for code ...
