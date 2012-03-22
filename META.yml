@@ -3,11 +3,12 @@ abstract: 'demo of an extension for RT'
 author:
   - 'Ruslan Zakirov <ruslan.zakirov@gmail.com>'
 build_requires:
-  ExtUtils::MakeMaker: 6.42
+  ExtUtils::MakeMaker: 6.59
 configure_requires:
-  ExtUtils::MakeMaker: 6.42
+  ExtUtils::MakeMaker: 6.59
 distribution_type: module
-generated_by: 'Module::Install version 1.00'
+dynamic_config: 1
+generated_by: 'Module::Install version 1.06'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -15,6 +16,7 @@ meta-spec:
 name: RT-Extension-Demo
 no_index:
   directory:
+    - html
     - inc
 requires:
   perl: 5.8.3
